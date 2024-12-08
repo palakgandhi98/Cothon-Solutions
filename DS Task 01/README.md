@@ -147,7 +147,7 @@ for name, model in models.items():
 
 ### Purpose:
 - Pipeline Setup:
-      * Combine StandardScaler (for scaling) with the model to ensure all data is normalized.
+   * Combine StandardScaler (for scaling) with the model to ensure all data is normalized.
 - Training:
    * Fit the pipeline on training data (`X_train`,` y_train`).
 - Evaluation:
