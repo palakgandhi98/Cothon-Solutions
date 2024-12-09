@@ -48,7 +48,7 @@ Each project has its own folder containing:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/palakgandhi98/Cothon-Solutions.git
-   cd
+   cd Cothon-Solutions
    ```
 
 2. **Install Dependencies**:
