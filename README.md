@@ -19,7 +19,7 @@ Each project has its own folder containing:
 
 ## 📜 **Table of Contents**  
 1. [🏠 Diabetes Prediction](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)  
-2. [🛒 Customer Segmentation - Recommendation System.](#)  
+2. [🛒 Customer Segmentation - Recommendation System.](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2002)  
 3.  
 
 ---
@@ -45,7 +45,7 @@ Each project has its own folder containing:
   - Clustering
   - Cluster Analysis and Profiling
   - Recommendation System  
-- **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)
+- **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2002)
 ---
 
 ## 🛠️ **Technologies Used**  
