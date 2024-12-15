@@ -19,20 +19,32 @@ Each project has its own folder containing:
 
 ## 📜 **Table of Contents**  
 1. [🏠 Diabetes Prediction](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)  
-2. [🖼️ Image Classification with CNNs](#image-classification-with-cnns)  
-3. [💬 Sentiment Analysis with NLP](#sentiment-analysis-with-nlp)  
+2. [🛒 Customer Segmentation - Recommendation System.](#)  
+3.  
 
 ---
 
 ## 💻 **Projects**  
 
-### 🏠 **Predicting House Prices**  
+### 🏠 **Diabetes Prediction**  
 - **Description:** Built a multi classification model to predict Diabetes using the Kaggle Diabetes Dataset.  
 - **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib 
 - **Key Features:**  
   - Data cleaning and preprocessing  
   - Feature engineering  
   - Hyperparameter tuning  
+- **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)
+---
+### 🏠 **Customer Segmentation - Recommendation System**  
+- **Description:** This repository contains an end-to-end project for retail customer segmentation and recommendation system. The project aims to understand customer purchasing behaviors, segment customers into distinct clusters, and build a recommendation system to suggest products to customers based on their cluster preferences..  
+- **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib, seaborn, scikit-learn, yellowbrick, plotly, tabulate, collections
+- **Key Features:**  
+  - Data Cleaning and Transformation
+  - Feature engineering
+  - Dimensionality Reduction
+  - Clustering
+  - Cluster Analysis and Profiling
+  - Recommendation System  
 - **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)
 ---
 
