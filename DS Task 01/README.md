@@ -226,8 +226,8 @@ The dataset used in this project is [diabetes](https://www.kaggle.com/code/melik
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/palakgandhi98/Cothon-Solutions.git
+   cd DS Task 01
    ```
 
 2. **Install Dependencies**:

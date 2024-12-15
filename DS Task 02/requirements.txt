@@ -1,0 +1,10 @@
+pandas 
+numpy 
+matplotlib
+scipy 
+seaborn 
+scikit-learn 
+yellowbrick 
+plotly 
+tabulate
+collections
