@@ -20,13 +20,13 @@ Each project has its own folder containing:
 ## 📜 **Table of Contents**  
 1. [🏠 Diabetes Prediction](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)  
 2. [🛒 Customer Segmentation - Recommendation System.](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2002)  
-3.  
+3. [📈 Sales Forecasting Model](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2003)
 
 ---
 
 ## 💻 **Projects**  
 
-### 🏠 **Diabetes Prediction**  
+### 🏠 **[Diabetes Prediction](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)**  
 - **Description:** Built a multi classification model to predict Diabetes using the Kaggle Diabetes Dataset.  
 - **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib 
 - **Key Features:**  
@@ -35,7 +35,7 @@ Each project has its own folder containing:
   - Hyperparameter tuning  
 - **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)
 ---
-### 🏠 **Customer Segmentation - Recommendation System**  
+### 🏠 **[Customer Segmentation - Recommendation System](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2002)**  
 - **Description:** This repository contains an end-to-end project for retail customer segmentation and recommendation system. The project aims to understand customer purchasing behaviors, segment customers into distinct clusters, and build a recommendation system to suggest products to customers based on their cluster preferences..  
 - **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib, seaborn, scikit-learn, yellowbrick, plotly, tabulate, collections
 - **Key Features:**  
@@ -47,10 +47,22 @@ Each project has its own folder containing:
   - Recommendation System  
 - **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2002)
 ---
+### 📈 **[Sales Forecasting Model](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2003)**  
+- **Description:** This project focuses on building a sales forecasting model to predict future sales based on historical data. Accurate sales forecasting is crucial for businesses to optimize inventory, manage supply chains, and improve decision-making. The notebook provides a comprehensive step-by-step process, including data preprocessing, feature engineering, model building, and evaluation.  
+- **Tech Stack:** Python, pandas,numpy, Scikit-learn, Matplotlib, seaborn, scipy,statsmodels, kaggle
+
+- **Key Features:**  
+  - Data cleaning and preprocessing  
+  - Feature engineering  
+  - Modeling
+  - Evaluation
+  - Conclusion  
+- **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2003)
+---
 
 ## 🛠️ **Technologies Used**  
 - **Programming Languages:** Python  
-- **Libraries & Frameworks:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NLTK  
+- **Libraries & Frameworks:** pandas,numpy, Scikit-learn, Matplotlib, seaborn, scipy,statsmodels, kaggle
 - **Tools:** Jupyter Notebook, VS Code  
 
 ---
