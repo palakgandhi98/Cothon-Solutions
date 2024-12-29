@@ -62,13 +62,13 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/retail-customer-segmentation-recommendation.git
+git clone https://github.com/palakgandhi98/Cothon-Solutions.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd retail-customer-segmentation-recommendation
+cd Cothon-Solutions
 ```
 
 3. Open the Jupyter notebook:
