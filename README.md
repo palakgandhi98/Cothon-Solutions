@@ -21,6 +21,7 @@ Each project has its own folder containing:
 1. [🏠 Diabetes Prediction](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2001)  
 2. [🛒 Customer Segmentation - Recommendation System.](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2002)  
 3. [📈 Sales Forecasting Model](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2003)
+4. [🚨 Web Traffic Analysis for Predicting Website Growth](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2004)
 
 ---
 
@@ -58,6 +59,19 @@ Each project has its own folder containing:
   - Evaluation
   - Conclusion  
 - **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2003)
+---
+
+### 🏠 **[Web Traffic Analysis](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2004)**  
+- **Description:** This repository contains a Jupyter notebook for a time-series analysis and forecasting task using Wikipedia page views data. The notebook includes data preprocessing, exploratory data analysis, anomaly detection, and time-series forecasting using various models.
+.  
+- **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib, seaborn, re, datetime, sklearn, statsmodel, warnings, pickle 
+- **Key Features:**  
+  - Data Preprocessing 
+  - Exploratory Data Analysis (EDA)
+  - Anomaly Detection
+  - Time-Series Forecasting
+  - Model Evaluation  
+- **Folder:** [📂 View Project](https://github.com/palakgandhi98/Cothon-Solutions/tree/main/DS%20Task%2004)
 ---
 
 ## 🛠️ **Technologies Used**  

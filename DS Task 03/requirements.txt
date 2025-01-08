@@ -3,8 +3,8 @@ numpy
 matplotlib
 scipy 
 seaborn 
-scikit-learn 
-yellowbrick 
+scikit-learn  
 plotly 
-tabulate
-collections
+scipy
+statsmodels
+kaggle
