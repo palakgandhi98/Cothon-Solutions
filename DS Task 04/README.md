@@ -65,7 +65,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
 
 The dataset used in this project is `train_1.csv`, which contains the number of views for different Wikipedia pages over a period. The data is preprocessed by filling missing values and reshaping the DataFrame for analysis.
 
- Dataset: [Kaggle Web Traffic Time Series Forecasting](#https://www.kaggle.com/competitions/web-traffic-time-series-forecasting/data)
+ Dataset: [Kaggle Web Traffic Time Series Forecasting](https://www.kaggle.com/competitions/web-traffic-time-series-forecasting/data)
 ### Data Description
 
 The dataset used in this project is `train_1.csv`, which contains the number of views for different Wikipedia pages over a period.
